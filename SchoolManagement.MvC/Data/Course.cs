@@ -9,7 +9,9 @@ public partial class Course
 
     public string Name { get; set; } = null!;
 
-    public string? Course1 { get; set; } 
+    public string? Course1 { get; set; }
 
-    public int? Credit { get; set; } 
+    public int? Credit { get; set; }
+
+    public virtual ICollection<Class> Classes { get; set; } = new List<Class>();
 }

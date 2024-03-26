@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oYV3aNgezzXRyN318yA5tP//ym/akvypIFs2RUus9x+NseA8o0/arBJuTHBpkVPDhZpFna8weSzPfGF1P1L+Dg==",
+  "dgSpecHash": "vRg4sxfJzyRDJhxjaX0hE0qpyCZ4DStzlZKjzbfofnrKWnxlPy7EaEEJg8yOQhjRkpJAn5W7sC4qsHkt/+OPlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\mvc\\schoolManagement.mvc\\SchoolManagement.MvC.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\mvc\\SchoolManagement.MvC\\SchoolManagement.MvC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

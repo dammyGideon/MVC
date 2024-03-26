@@ -15,6 +15,10 @@
     <link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet" />
+
+   
+    <link href="https://cdn.datatables.net/2.0.3/css/dataTables.bootstrap5.css" rel="stylesheet"/>
 
 
 </head>
@@ -46,6 +50,13 @@
                         <li class="nav-item">
                             <a class="nav-link" asp-area="" asp-action="Index" asp-controller="Student">Student</a>
                         </li>
+                          <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-action="Index" asp-controller="Teaching">Not Teaching Staff</a>
+                        </li>
+
+                         <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-action="Index" asp-controller="StudentClasses">Classes</a>
+                        </li>
                     </ul>
 
                 </div>
@@ -70,6 +81,20 @@
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
 
+        
+    <script src="https://getbootstrap.com/docs/5.0/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+     crossorigin="anonymous"></script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/2.0.3/js/dataTables.js"> </script>
+    <script src="https://cdn.datatables.net/2.0.3/js/dataTables.bootstrap5.js"> </script>
+
+    
+ 
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     @await RenderSectionAsync("Scripts", required: false)
 

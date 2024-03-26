@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\mvc\\schoolManagement.mvc\\SchoolManagement.MvC.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\mvc\\SchoolManagement.MvC\\SchoolManagement.MvC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\mvc\\schoolManagement.mvc\\SchoolManagement.MvC.csproj": {
+    "C:\\Users\\HP\\source\\repos\\mvc\\SchoolManagement.MvC\\SchoolManagement.MvC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\mvc\\schoolManagement.mvc\\SchoolManagement.MvC.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\mvc\\SchoolManagement.MvC\\SchoolManagement.MvC.csproj",
         "projectName": "SchoolManagement.MvC",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\mvc\\schoolManagement.mvc\\SchoolManagement.MvC.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\mvc\\SchoolManagement.MvC\\SchoolManagement.MvC.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\mvc\\schoolManagement.mvc\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\mvc\\SchoolManagement.MvC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

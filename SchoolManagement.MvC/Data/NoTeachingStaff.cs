@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace SchoolManagement.MvC.Data;
 
-public partial class Student
+public partial class NoTeachingStaff
 {
     public int Id { get; set; }
 
@@ -11,7 +11,5 @@ public partial class Student
 
     public string LastName { get; set; } = null!;
 
-    public DateOnly? DateOfBirth { get; set; }
-
-    public virtual ICollection<Entrollment> Entrollments { get; set; } = new List<Entrollment>();
+    public DateOnly? Dob { get; set; }
 }
